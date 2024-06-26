@@ -1,0 +1,117 @@
+.home {
+  background-color: white;
+  margin-top: 80px;
+}
+
+.container-home {
+  background-color: white;
+}
+
+.container-home {
+  height: 650px;
+}
+
+.typing-container {
+  width: 25ch; /* Adjust this value based on your text length */
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 2px solid black; /* Blinking cursor */
+}
+
+.heading-profile {
+  font-family: "Play";
+  padding-top: 5rem;
+  font-size: 5rem;
+}
+
+.containerhome {
+  width: 35rem;
+  font-family: "Play";
+  font-size: 1.2rem;
+}
+
+.heading {
+  color: var(--primaryColor);
+}
+
+.btn-buy {
+  background-color: var(--secondaryColor);
+  font-family: var(--hedingFont);
+  font-weight: 700;
+}
+
+.img-profil {
+  display: flex;
+  margin: auto;
+}
+
+.img-profil img {
+  margin: auto;
+  width: 26rem;
+  margin-top: 0;
+  margin-left: 8rem;
+  object-fit: cover;
+}
+
+.btn-learn {
+  border: 2px solid var(--secondaryColor);
+  color: var(--secondaryColor);
+  font-family: var(--hedingFont);
+  font-weight: 700;
+}
+
+@media screen and (min-width: 768px) {
+  .heading {
+    font-size: 38px !important;
+  }
+  .subheading {
+    font-size: 23px;
+  }
+  .btn-buy {
+    font-size: 21px;
+  }
+
+  .btn-learn {
+    font-size: 21px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .container-home {
+    height: 460px;
+  }
+
+  .container {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  .content-left {
+    padding-bottom: 40px;
+  }
+
+  .heading {
+    font-size: 39px !important;
+  }
+  .subheading {
+    font-size: 15px;
+  }
+  .btn-buy {
+    font-size: 21px;
+  }
+
+  .btn-learn {
+    font-size: 21px;
+  }
+
+  .home img {
+    right: 0;
+    bottom: -14%;
+  }
+
+  .home .img2 {
+    padding-top: 50px;
+    top: 0;
+    width: 8rem;
+  }
+}

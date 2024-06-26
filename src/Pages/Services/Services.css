@@ -1,0 +1,14 @@
+.skill img {
+  width: 3rem;
+  margin-right: 1.5rem;
+  padding: 1px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.skill-wrap {
+  background: linear-gradient(to bottom, #80bd3a, #ddffc1);
+  border: 2px;
+  width: 64% !important;
+  border-radius: 150px;
+}

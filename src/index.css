@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primaryColor: #002939;
+  --secondaryColor: #ddc190;
+
+  --mainFont: "Open Sans", sans-serif;
+  --headingFont: "Merriweather", serif;
+}
+
+body {
+  font-family: var(--mainFont);
+}
+
+.heading {
+  font-family: var(--headingFont);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.subheading {
+  font-weight: 300;
+}
