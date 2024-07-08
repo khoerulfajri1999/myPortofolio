@@ -63,7 +63,7 @@
 }
 
 .card-productt {
-  width: 23rem !important;
+  width: 21rem !important;
   height: 50rem;
 }
 
@@ -135,5 +135,9 @@
 
   .banner2 .price {
     width: 80%;
+  }
+
+  .card-productt {
+    width: 28rem !important;
   }
 }
