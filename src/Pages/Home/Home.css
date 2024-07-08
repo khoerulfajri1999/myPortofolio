@@ -21,11 +21,11 @@
 .heading-profile {
   font-family: "Play";
   padding-top: 5rem;
-  font-size: 5rem;
+  font-size: 3rem;
 }
 
 .containerhome {
-  width: 35rem;
+  width: 20rem;
   font-family: "Play";
   font-size: 1.2rem;
 }
@@ -41,8 +41,11 @@
 }
 
 .img-profil {
-  display: flex;
-  margin: auto;
+  position: absolute;
+  top: 0;
+  left: -130px;
+  margin: 0;
+  width: 30rem;
 }
 
 .img-profil img {
@@ -79,6 +82,31 @@
 @media screen and (min-width: 992px) {
   .container-home {
     height: 460px;
+  }
+
+  .heading-profile {
+    font-family: "Play";
+    padding-top: 5rem;
+    font-size: 5rem;
+  }
+
+  /* .img-profil {
+    display: inline-block;
+    margin: auto;
+  } */
+
+  .img-profil {
+    position: absolute;
+    top: 0;
+    left: 60rem;
+    margin: 0;
+    width: 30rem;
+  }
+
+  .containerhome {
+    width: 35rem;
+    font-family: "Play";
+    font-size: 1.2rem;
   }
 
   .container {

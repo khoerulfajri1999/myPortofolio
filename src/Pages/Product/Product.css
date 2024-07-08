@@ -4,6 +4,7 @@
 
 .heading-product {
   font-weight: 700;
+  margin-top: -4rem;
 }
 
 .toggle-slider i {
@@ -40,7 +41,7 @@
   font-family: var(--mainFont);
 }
 .detail-product .label:hover {
-  background-color: transparent;
+  background-color: var(--secondaryColor);
   color: #2a3818;
   border: 2px solid #2a3818;
 }
@@ -62,7 +63,7 @@
 }
 
 .card-productt {
-  width: 28rem !important;
+  width: 23rem !important;
   height: 50rem;
 }
 

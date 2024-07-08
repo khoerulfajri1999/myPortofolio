@@ -7,7 +7,7 @@ export const Home = () => {
       <div className=" container lg-h-100 container-home">
         <div className="lg-h-100">
           <div className="row">
-            <div className="col-6 mt-19">
+            <div className="lg-col-6 mt-96 lg:mt-0 ">
               <h1 className=" heading-profile animate-pulse pb-3 font-bold">
                 MERN Stack Developer
               </h1>
@@ -22,7 +22,7 @@ export const Home = () => {
                 Currently open for web developer position.
               </p>
             </div>
-            <div className="img-profil col-6">
+            <div className="img-profil lg-col-6">
               <img src="./images/profile2.png" alt="" className="m" />
             </div>
           </div>

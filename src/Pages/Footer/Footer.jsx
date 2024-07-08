@@ -1,5 +1,5 @@
-import React from "react";
-import "./Footer.css";
+import React from 'react';
+import './Footer.css';
 
 export const Footer = () => {
   return (
@@ -26,7 +26,7 @@ export const Footer = () => {
         <div className="row mt-3">
           <div className="col col6 text-center">
             <p className="text-white mb-4">
-              &copy;Copyright 2021 All Right Reserve | Built by{" "}
+              &copy;Copyright 2021 All Right Reserve | Built by{' '}
               <a href="#">Khoerul Fajri</a>
             </p>
           </div>

@@ -28,7 +28,6 @@ export const Product = () => {
           </div>
           <div className="row mt-4">
             <div className="col populer d-lg-flex justify-content-lg-between">
-              <h3 className="heading-product"></h3>
               <div className="toggle-slider d-lg-block d-flex justify-content-end">
                 <i class="bx bxs-chevron-left-circle" onClick={handlePrev}></i>
                 <i class="bx bxs-chevron-right-circle" onClick={handleNext}></i>
