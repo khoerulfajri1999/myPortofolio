@@ -56,6 +56,9 @@ export const Product = () => {
                   </div>
                   <div className="bgbottom">
                     <div>
+                      <h1 className="headingText text-center pt-4 px-4">
+                        KEDAN (Kedai Medan Kak Inong)
+                      </h1>
                       <p className="text-center py-4 px-4">
                         Kedan website is a website of an UMKM around Semarang.
                         Serves to see the menus in these UMKMs and can order
@@ -91,6 +94,9 @@ export const Product = () => {
                   </div>
                   <div className="bgbottom">
                     <div>
+                      <h1 className="headingText text-center pt-4 px-4">
+                        KasirApp
+                      </h1>
                       <p className="text-center py-4 px-4">
                         KasirApp to make transactions between sellers and buyers
                         (users) digitally. On this "kasirApp" website there are
@@ -121,6 +127,9 @@ export const Product = () => {
                   </div>
                   <div className="bgbottom">
                     <div>
+                      <h1 className="headingText text-center pt-4 px-4">
+                        Furniture
+                      </h1>
                       <p className="text-center py-4 px-4">
                         This furniture website is a landing page. In the product
                         category session, this website utilizes the swiper js
@@ -161,6 +170,9 @@ export const Product = () => {
                   </div>
                   <div className="bgbottom">
                     <div>
+                      <h1 className="headingText text-center pt-4 px-4">
+                        Game World Versi Indonesia
+                      </h1>
                       <p className="text-center py-4 px-4">
                         Game Wordl is a vocabulary game where players get six
                         tries to deduce the word of the day. This game is a
@@ -196,6 +208,9 @@ export const Product = () => {
                   </div>
                   <div className="bgbottom">
                     <div>
+                      <h1 className="headingText text-center pt-4 px-4">
+                        Room Chat
+                      </h1>
                       <p className="text-center py-4 px-4">
                         Room Chat application is a realtime chat application
                         created using react js and firebase, where users are

@@ -20,6 +20,9 @@ export const Footer = () => {
               <a href="khoerulfajri.jobs@gmail.com">
                 <i class="bx bxl-gmail"></i>
               </a>
+              <a href="https://github.com/khoerulfajri1999/">
+                <i class="bx bxl-github"></i>
+              </a>
             </div>
           </div>
         </div>

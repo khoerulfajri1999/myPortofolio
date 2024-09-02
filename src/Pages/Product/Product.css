@@ -67,6 +67,12 @@
   height: 50rem;
 }
 
+.headingText {
+  color: var(--secondaryColor);
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
 .bgbottom {
   color: white;
   background-color: black;
